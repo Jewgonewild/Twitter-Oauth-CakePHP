@@ -81,11 +81,11 @@ class DATABASE_CONFIG {
 	var $default = array(
 		'driver' => 'mysql',
 		'persistent' => false,
-		'host' => '',
-		'login' => '',
-		'password' => '',
-		'database' => '',
-		'port' => '',
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => 'root',
+		'database' => 'example',
+		'port' => '8889',
 		'prefix' => '',
 	);
 
