@@ -9,7 +9,7 @@
  * @version  1.0
  * @author   Emmanuel P <hello@pozo.me>
  * @license  http://www.opensource.org/licenses/mit-license.php The MIT License
- * @link     github
+ * @link     http://github.com/Jewgonewild/Twitter-Oauth-CakePHP
  */ 
 class UsersController extends AppController
 {

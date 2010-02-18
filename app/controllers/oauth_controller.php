@@ -9,13 +9,13 @@
  * @version  1.0
  * @author   Emmanuel P <hello@pozo.me>
  * @license  http://www.opensource.org/licenses/mit-license.php The MIT License
- * @link     github
+ * @link     http://github.com/Jewgonewild/Twitter-Oauth-CakePHP
  */
 class OauthController extends AppController
 {
 	var $name = 'oauth';
 	var $uses = array('User');
-	var $layout = 'ajax'; ////Change this to match your layouts
+	var $layout = 'ajax'; //Change this to match your layouts
 	var $components = array('OauthConsumer');
 	
 	//Oauth callback function.
