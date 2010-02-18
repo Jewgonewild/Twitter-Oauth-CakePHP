@@ -1,6 +1,6 @@
 #Intro
 
-A Twitter OAUTH implementation for CakePHP.
+A Twitter OAUTH implementation for CakePHP. This is a simple app that Authenticates with Twitter OAuth, and persists some Twitter data. It's a starting point to any web based Twitter app.
 
 #Requirements 
 
